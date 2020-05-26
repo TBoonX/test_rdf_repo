@@ -26,15 +26,6 @@
 <http://pfarrerbuch.aksw.org/Suche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/voc/hp/Search> .
 <http://pfarrerbuch.aksw.org/Suche> <http://www.w3.org/2000/01/rdf-schema#label> "Search"@en .
 <http://pfarrerbuch.aksw.org/Suche> <http://www.w3.org/2000/01/rdf-schema#label> "Suche"@de .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://purl.org/voc/hp/ah1875> "Chemnitz" .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://purl.org/voc/hp/community> "Gemeinde" .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://purl.org/voc/hp/district1952> "Chemnitz" .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://purl.org/voc/hp/district> "Glauchau" .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://purl.org/voc/hp/hovID> "841" .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://purl.org/voc/hp/nameOfPlace> "Niederfrohna" .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://purl.org/voc/hp/nearby> "s. Penig" .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/voc/hp/Place> .
-<http://pfarrerbuch.aksw.org/sachsen/ort/1830> <http://www.w3.org/2000/01/rdf-schema#label> "Niederfrohna" .
 <http://pfarrerbuch.aksw.org/sachsen/ort/2188> <http://purl.org/voc/hp/ah1875> "Grimma" .
 <http://pfarrerbuch.aksw.org/sachsen/ort/2188> <http://purl.org/voc/hp/community> "Kreisstadt des Muldentalkreises" .
 <http://pfarrerbuch.aksw.org/sachsen/ort/2188> <http://purl.org/voc/hp/district1952> "Grimma" .
